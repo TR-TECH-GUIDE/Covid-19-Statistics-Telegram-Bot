@@ -20,3 +20,9 @@ Covid-19-Statistics-Telegram Bot can Track all about Covid 19 Live Statistics in
 # What does it show ?
 * Local Covid 19 Informations
 * Globle Covid 19 Informations
+
+<p align="left">
+  <a href="https://heroku.com/deploy?template=https://github.com/TR-TECH-GUIDE/Covid-19-Statistics-Telegram-Bot/tree/main">
+     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
+  </a>
+</p>
