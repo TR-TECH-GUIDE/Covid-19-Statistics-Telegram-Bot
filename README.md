@@ -1,7 +1,7 @@
 <h1 align="center">Covid-19-Statistics-Telegram Bot </h3>
 <p align="center">
   <a href="https://github.com/TR-TECH-GUIDE/Covid-19-Statistics-Telegram-Bot">
-    <img src="https://socialify.git.ci/TR-TECH-GUIDE/Covid-19-Statistics-Telegram-Bot/image?description=1&forks=1&issues=1&language=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
+    <img src="https://trtechguide.files.wordpress.com/2021/07/untitled-design-2.png?description=1&forks=1&issues=1&language=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
   </a>
 </p>
 
