@@ -18,10 +18,5 @@
         "API_HASH": {
             "description": "Your API_HASH from https://my.telegram.org/apps"
         }
-    },
-    "buildpacks": [
-        {
-            "url": "heroku/php"
-        }
     ]
 }
